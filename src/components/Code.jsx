@@ -36,7 +36,7 @@ const Code =  () =>{
           <Editor
               heading="JavaScript"
               icon="()"
-              color="FCD000"
+              color="#FCD000"
               value={js}
               onChange={setJs}
           />
